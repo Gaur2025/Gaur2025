@@ -1,9 +1,9 @@
 # Hello, I'm [Himanshu Gaur] 👋
 
 [![Medium: Himanshu Gaur](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gaur-himanshu)
-[![Linkedin: Himanshu Gaur](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
+[![Linkedin: Himanshu Gaur](https://img.shields.io/badge/-HimanshuGaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
 
-🌟 Welcome to my data-driven world! I'm a passionate Software Development Engineer and Machine Learning enthusiast, constantly exploring the depths of data to extract insights and solve complex problems.
+🌟 I'm a Software Development Engineer and Machine Learning enthusiast, constantly exploring the depths of data to extract insights and solve complex problems.
 
 🧠 I believe in the power of data to drive innovation and decision-making. Let's dive into the data-driven universe together!
 
@@ -34,7 +34,7 @@ Here are some of the tools and technologies I frequently use:
 I enjoy sharing my knowledge. Check out my data science articles and tutorials on [Medium](https://medium.com/@gaur-himanshu).
 
 ## 📄 Resume
-You can check out my resume [here]([https://example.com/your-resume.pdf](https://drive.google.com/file/d/1dPkMHy0La2SSjfl6f9Ptbgjy0mEDbqx5/view)).
+You can check out my resume [here](https://drive.google.com/file/d/1dPkMHy0La2SSjfl6f9Ptbgjy0mEDbqx5/view).
 
 ## 📫 Let's Connect
 - Medium: [@gaur-himanshu](https://twitter.com/your_twitter_handle)
