@@ -1,4 +1,4 @@
-# Hello, I'm [Himanshu Gaur] 👋
+# Hello, I'm [Himanshu Gaur](https://gaur2025.github.io/himanshugaur/) 👋
 
 [![Medium:Himanshu-Gaur](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gaur-himanshu)
 [![Linkedin:Himanshu-Gaur](https://img.shields.io/badge/-HimanshuGaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
@@ -9,12 +9,11 @@
 
 📊 Here are some of the areas I'm skilled in:
 
-- Machine Learning
 - Software Development
-- Data Analysis
-- Data Visualization
-- Natural Language Processing
+- Machine Learning
 - Deep Learning
+- Natural Language Processing
+- Recommendation System
 - Predictive Modeling
 
 ## 🛠️ Tools & Technologies
@@ -31,7 +30,7 @@ Here are some of the tools and technologies I frequently use:
 
 
 ## 📚 Blogs
-I enjoy sharing my knowledge. Check out my data science articles and tutorials on [Medium](https://medium.com/@gaur-himanshu).
+I believe in sharing the stuff I know a little. Check out my articles on [Medium](https://medium.com/@gaur-himanshu).
 
 ## 📫 Let's Connect
 - Medium: [@gaur-himanshu](https://medium.com/@gaur-himanshu)
