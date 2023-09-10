@@ -1,7 +1,7 @@
 # Hello, I'm [Himanshu Gaur] 👋
 
 [![Medium:Himanshu-Gaur](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gaur-himanshu)
-[![Linkedin:Himanshu-Gaur](https://img.shields.io/badge/-Himanshu-Gaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
+[![Linkedin:Himanshu-Gaur](https://img.shields.io/badge/-HimanshuGaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
 
 🌟 I'm a Software Development Engineer and Machine Learning enthusiast, constantly exploring the depths of data to extract insights and solve complex problems.
 
