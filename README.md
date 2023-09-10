@@ -1,7 +1,7 @@
 # Hello, I'm [Himanshu Gaur] 👋
 
-[![Medium: Himanshu Gaur](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gaur-himanshu)
-[![Linkedin: Himanshu Gaur](https://img.shields.io/badge/-HimanshuGaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
+[![Medium:Himanshu-Gaur](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gaur-himanshu)
+[![Linkedin:Himanshu-Gaur](https://img.shields.io/badge/-Himanshu-Gaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaur/)](https://www.linkedin.com/in/gaur/)
 
 🌟 I'm a Software Development Engineer and Machine Learning enthusiast, constantly exploring the depths of data to extract insights and solve complex problems.
 
@@ -33,12 +33,9 @@ Here are some of the tools and technologies I frequently use:
 ## 📚 Blogs
 I enjoy sharing my knowledge. Check out my data science articles and tutorials on [Medium](https://medium.com/@gaur-himanshu).
 
-## 📄 Resume
-You can check out my resume [here](https://drive.google.com/file/d/1dPkMHy0La2SSjfl6f9Ptbgjy0mEDbqx5/view).
-
 ## 📫 Let's Connect
-- Medium: [@gaur-himanshu](https://twitter.com/your_twitter_handle)
-- LinkedIn: [Himanshu Gaur](https://www.linkedin.com/in/yourname/)
+- Medium: [@gaur-himanshu](https://medium.com/@gaur-himanshu)
+- LinkedIn: [Himanshu Gaur](https://www.linkedin.com/in/gaur/)
 - Email: [gaur.himanshugaur2025@gmail.com](mailto:gaur.himanshugaur2025@gmail.com)
 
 📊 Data is beautiful, and the possibilities are endless. Let's explore the data universe together!
