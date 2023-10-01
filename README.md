@@ -37,4 +37,8 @@ I believe in sharing the stuff I know a little. Check out my articles on [Medium
 - LinkedIn: [Himanshu Gaur](https://www.linkedin.com/in/gaur/)
 - Email: [gaur.himanshugaur2025@gmail.com](mailto:gaur.himanshugaur2025@gmail.com)
 
+
+Badgees -
+[![An image of @gaur2025's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaur2025)](https://holopin.io/@gaur2025)
+
 📊 Data is beautiful, and the possibilities are endless. Let's explore the data universe together!
